@@ -1,0 +1,4 @@
+2026-01-27 16:45:16.923 | WARNING  | utils.e_tentai:download_imgs_from_img_urls:87 - Timeout when downloading: https://e-hentai.org/s/a3bf98fad0/3759831-2, skipping it, error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://e-hentai.org/s/a3bf98fad0/3759831-2", waiting until "load"
+
